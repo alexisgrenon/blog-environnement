@@ -44,9 +44,9 @@ params:
         url: /pricing
         style: primary
     has_anncmnt: true
-    anncmnt_content: >-
-      Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
-      More](/pricing/)**
+    anncmnt_content: >
+      Nouveau site web. [**Suivez mon parcours en vous abonnant à mon infolettre
+      :)**](akiamarketing.ca)
     anncmnt_align: left
     anncmnt_is_home_only: true
     anncmnt_has_close: true
