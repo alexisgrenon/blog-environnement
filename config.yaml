@@ -76,7 +76,7 @@ params:
         no_follow: false
         type: action
     has_secondary_nav: true
-    secondary_nav_title: Blog
+    secondary_nav_title: Blogue
     secondary_nav_links:
       - type: action
         label: News
