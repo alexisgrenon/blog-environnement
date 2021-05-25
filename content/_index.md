@@ -23,7 +23,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: /images/diy-preview.png
+    image: /images/Nouvelle branche - 1000x1000.png
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
