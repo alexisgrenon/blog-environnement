@@ -63,7 +63,7 @@ params:
         url: /about
         style: link
       - type: action
-        label: Style Guide
+        label: Pourquoi?
         url: /style-guide
         style: link
     has_secondary_nav: true
