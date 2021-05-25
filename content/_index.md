@@ -319,7 +319,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: Quelques articles
+    title: Mes dernières publications
     subtitle: Blog Feed Section Example
     actions:
       - type: action
