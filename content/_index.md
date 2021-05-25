@@ -107,7 +107,7 @@ sections:
         media_width: fifty
       - type: feature
         title: Discussion
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Est-ce que j'ai trouvé n'importe quoi?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
