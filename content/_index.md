@@ -4,11 +4,12 @@ sections:
   - title: Mon Blogue
     subtitle: J'en apprends sur l'environnement
     content: >
-      ## Lorem ipsum
+      ## Du début à ...
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua
+      Mon expérience de travail est en marketing. Mes études en kinésiologie.
+      Mes inquiétudes, en environnement. Avec vous, je m'informe et je vulgarise
+      ce que je trouve! 
     actions: []
     image_alt: lorem-ipsum
     media_position: left
