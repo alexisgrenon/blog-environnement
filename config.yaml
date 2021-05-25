@@ -22,7 +22,7 @@ params:
         url: /pricing
         style: link
       - type: action
-        label: À propos
+        label: À propos de moi
         url: /about
         style: link
       - type: action
