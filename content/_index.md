@@ -320,7 +320,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: Mes dernières publications
-    subtitle: Blog Feed Section Example
+    subtitle: Le blogue
     actions:
       - type: action
         label: View All
