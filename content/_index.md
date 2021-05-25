@@ -165,7 +165,7 @@ sections:
     features:
       - type: feature
         title: "C'est moi\_\_\U0001F449"
-        subtitle: Alexis Grenon
+        subtitle: 'Alexis Grenon, citoyen curieux préocuppé par l''environnement'
         image: /images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
