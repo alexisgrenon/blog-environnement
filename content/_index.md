@@ -31,6 +31,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: /images/41184609_2249558591944351_3248143702897373380_n.jpg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
