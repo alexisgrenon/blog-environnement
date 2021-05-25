@@ -164,7 +164,7 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: C'est moi!
+        title: C'est moi
         subtitle: Alexis Grenon
         image: /images/brandon-guidelines.png
         image_alt: Brandon Guidelines
