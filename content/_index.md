@@ -67,7 +67,7 @@ sections:
         media_width: fifty
       - type: feature
         title: Discussion
-        subtitle: Est-ce que j'ai trouvé n'importe quoi?
+        subtitle: Qu'est-ce qu'il raconte lui !?
         content: >
           La discussion est ouverte! Est-ce que j'ai oublié de couvrir une
           portion du sujet? Est-ce qu'il y a un autre angle pour voir le tout? 
