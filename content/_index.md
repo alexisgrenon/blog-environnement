@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - type: action
-        label: Try Free
+        label: Mon infolettre
         url: /pricing
         style: primary
       - type: action
