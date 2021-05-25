@@ -94,7 +94,7 @@ params:
     tertiary_nav_title: Légal
     tertiary_nav_links:
       - type: action
-        label: Terms & Conditions
+        label: Termes et conditions
         url: /terms-conditions
         style: link
       - type: action
