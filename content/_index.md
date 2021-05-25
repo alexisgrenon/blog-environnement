@@ -88,7 +88,7 @@ sections:
         media_position: right
         media_width: fifty
       - type: feature
-        title: Recheche
+        title: Vulgarisation de mes découvertes
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
