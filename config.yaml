@@ -66,7 +66,7 @@ params:
         label: Pourquoi?
         url: /style-guide
         style: link
-      - label: lorem-ipsum
+      - label: À propos
         url: '#'
         style: link
         has_icon: false
