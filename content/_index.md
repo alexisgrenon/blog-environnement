@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Mes découvertes matière de développement durable
-    subtitle: Optional hero section subtitle
+    subtitle: Du marketing web au développement durable
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
