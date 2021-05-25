@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'En apprendre sur l''environnement, un petit pas à la fois'
+    title: Mes découvertes matière de développement durable
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
