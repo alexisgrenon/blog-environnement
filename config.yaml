@@ -40,7 +40,7 @@ params:
         url: /contact
         style: link
       - type: action
-        label: Get Started
+        label: Mon infolettre
         url: /pricing
         style: primary
     has_anncmnt: true
