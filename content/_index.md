@@ -88,10 +88,10 @@ sections:
         media_width: fifty
       - type: feature
         title: Vulgarisation de mes découvertes
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Super j'ai plein d'information, mais j'ai besoin de la consolider pour
+          bien la comprendre! Et encore plus pour bien la vulgariser. C'est ce
+          que j'essaie de faire dans mes articles de blogue.
         actions:
           - type: action
             label: Learn More
