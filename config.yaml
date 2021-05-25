@@ -143,12 +143,7 @@ params:
         icon: vimeo
         icon_position: center
         new_window: true
-    content: >-
-      &copy; Nouvelle branche. Tous droits réservés <a
-      href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+    content: '&copy; Nouvelle branche. Tous droits réservés.'
   domain: 'https://blog-environnement-6853c.netlify.app'
 taxonomies:
   stub: stub
