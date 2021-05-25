@@ -108,10 +108,9 @@ sections:
       - type: feature
         title: Discussion
         subtitle: Est-ce que j'ai trouvé n'importe quoi?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          La discussion est ouverte! Est-ce que j'ai oublié de couvrir une
+          portion du sujet? Est-ce qu'il y a un autre angle pour voir le tout? 
         actions:
           - type: action
             label: Learn More
