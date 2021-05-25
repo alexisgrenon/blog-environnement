@@ -1,29 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Mes découvertes matière de développement durable
-    subtitle: Du marketing web au développement durable
-    content: >
-      J'en apprends en partant du début. Un peu comme le Hydro Québec (pièce de
-      théâtre) du développement durable.
-    actions:
-      - type: action
-        label: Mon infolettre
-        url: /pricing
-        style: primary
-      - type: action
-        label: Mes articles
-        url: /features
-        style: secondary
-    image: images/classic/hero.png
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
