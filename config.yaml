@@ -18,7 +18,7 @@ params:
         url: /features
         style: link
       - type: action
-        label: Pricing
+        label: La démarche
         url: /pricing
         style: link
       - type: action
