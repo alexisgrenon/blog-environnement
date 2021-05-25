@@ -96,6 +96,28 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
+  - type: blog_feed_section
+    title: Mes dernières publications
+    subtitle: Le blogue
+    actions:
+      - type: action
+        label: Voit tout
+        url: /blog
+        style: primary
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: true
+    recent_count: 3
+    show_date: true
+    show_categories: true
+    show_author: true
+    show_excerpt: false
+    show_image: true
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
@@ -278,28 +300,6 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - type: blog_feed_section
-    title: Mes dernières publications
-    subtitle: Le blogue
-    actions:
-      - type: action
-        label: Voit tout
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     title: Inscription à l'infolettre
     content: |
