@@ -65,7 +65,7 @@ sections:
     grid_gap_horiz: medium
     align: center
   - type: features_section
-    title: Features Section
+    title: Ma démarche
     subtitle: Features Section Example
     features:
       - type: feature
