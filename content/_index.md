@@ -94,7 +94,7 @@ sections:
           que j'essaie de faire dans mes articles de blogue.
         actions:
           - type: action
-            label: Learn More
+            label: Lire les articles
             url: /style-guide
             style: primary
             has_icon: true
