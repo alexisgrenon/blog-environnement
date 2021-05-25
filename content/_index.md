@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Mes découvertes matière de développement durable
     subtitle: Du marketing web au développement durable
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      J'en apprends en partant du début. Un peu comme le Hydro Québec (pièce de
+      théâtre) du développement durable.
     actions:
       - type: action
         label: Mon infolettre
