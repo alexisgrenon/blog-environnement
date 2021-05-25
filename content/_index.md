@@ -342,10 +342,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Inscription à l'infolettre
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      J'y publie mes derniers articles et j'y pose mes prochaines questions!
     actions:
       - type: action
         label: Button
