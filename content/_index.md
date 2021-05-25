@@ -85,39 +85,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - type: feature
-        title: C'est moi!
-        subtitle: Alexis Grenon
-        image: /images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-  - type: blog_feed_section
-    title: Mes dernières publications
-    subtitle: Le blogue
-    actions:
-      - type: action
-        label: Voit tout
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
@@ -193,6 +160,39 @@ sections:
     grid_gap_horiz: medium
     enable_cards: true
     align: center
+    background_color: none
+  - type: features_section
+    features:
+      - type: feature
+        title: C'est moi!
+        subtitle: Alexis Grenon
+        image: /images/brandon-guidelines.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
+  - type: blog_feed_section
+    title: Mes dernières publications
+    subtitle: Le blogue
+    actions:
+      - type: action
+        label: Voit tout
+        url: /blog
+        style: primary
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: true
+    recent_count: 3
+    show_date: true
+    show_categories: true
+    show_author: true
+    show_excerpt: false
+    show_image: true
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
     background_color: none
   - type: cta_section
     title: Inscription à l'infolettre
