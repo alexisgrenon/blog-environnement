@@ -346,7 +346,7 @@ sections:
       J'y publie mes derniers articles et j'y pose mes prochaines questions!
     actions:
       - type: action
-        label: Button
+        label: M'inscrire
         url: /pricing
         style: primary
     actions_position: bottom
