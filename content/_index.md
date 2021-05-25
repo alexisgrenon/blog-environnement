@@ -130,7 +130,7 @@ sections:
       - type: feature
         title: C'est moi!
         subtitle: Alexis Grenon
-        image: images/brandon-guidelines.png
+        image: /images/Photo_alexis.jpg
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
