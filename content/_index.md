@@ -323,7 +323,7 @@ sections:
     subtitle: Le blogue
     actions:
       - type: action
-        label: View All
+        label: Voit tout
         url: /blog
         style: primary
     blog_feed_cols: three
