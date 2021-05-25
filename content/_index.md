@@ -73,7 +73,7 @@ sections:
           portion du sujet? Est-ce qu'il y a un autre angle pour voir le tout? 
         actions:
           - type: action
-            label: Learn More
+            label: Lire les articles
             url: /style-guide
             style: primary
             has_icon: true
