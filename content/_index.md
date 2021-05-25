@@ -2,7 +2,7 @@
 title: Home
 sections:
   - title: Mon Blogue
-    subtitle: lorem-ipsum
+    subtitle: J'en apprends sur l'environnement
     content: >
       ## Lorem ipsum
 
