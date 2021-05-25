@@ -36,7 +36,7 @@ params:
     has_secondary_nav: true
     secondary_nav_links:
       - type: action
-        label: Contact
+        label: Me contacter
         url: /contact
         style: link
       - type: action
