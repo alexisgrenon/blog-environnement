@@ -66,7 +66,7 @@ sections:
     align: center
   - type: features_section
     title: Ma démarche
-    subtitle: Features Section Example
+    subtitle: C'est quoi le plan avec ça?
     features:
       - type: feature
         title: The Big Title For the Feature
