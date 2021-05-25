@@ -23,7 +23,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: /images/Nouvelle branche - 1000x1000.png
+    image: /images/classic/hero.png
   - type: features_section
     title: Ma démarche
     subtitle: C'est quoi le plan avec ça?
