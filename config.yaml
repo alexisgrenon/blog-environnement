@@ -53,7 +53,7 @@ params:
     anncmnt_id: new-features
   footer:
     type: footer
-    logo: /images/Nouvelle branche - 1000x1000 (1).png
+    logo: /images/Nouvelle branche - 1000x1000.png
     logo_alt: DIY logo
     has_primary_nav: true
     primary_nav_title: Company
