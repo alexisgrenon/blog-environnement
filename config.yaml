@@ -59,7 +59,7 @@ params:
     primary_nav_title: À propos
     primary_nav_links:
       - type: action
-        label: About
+        label: La démarche
         url: /about
         style: link
       - type: action
