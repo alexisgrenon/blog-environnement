@@ -69,7 +69,7 @@ sections:
     subtitle: C'est quoi le plan avec ça?
     features:
       - type: feature
-        title: Mes intérêts
+        title: Recherche
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
