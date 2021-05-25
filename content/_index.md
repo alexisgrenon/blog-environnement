@@ -129,7 +129,7 @@ sections:
     features:
       - type: feature
         title: C'est moi!
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: Alexis Grenon
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
