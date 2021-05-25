@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: lorem-ipsum
+  - title: Mon Blogue
     subtitle: lorem-ipsum
     content: >
       ## Lorem ipsum
