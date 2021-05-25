@@ -98,7 +98,7 @@ params:
         url: /terms-conditions
         style: link
       - type: action
-        label: Privacy Policy
+        label: Politique de confidentialité
         url: /privacy-policy
         style: link
     has_social: true
