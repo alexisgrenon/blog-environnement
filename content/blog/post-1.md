@@ -1,8 +1,8 @@
 ---
 title: La biométhanisation
 subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+  Qu'est-ce que c'est? Est-ce que c'est une solution intéressante au Québec?
+  Ailleurs dans le monde?
 date: '2020-04-16'
 author: data/team/dianne-ameter.json
 categories:
