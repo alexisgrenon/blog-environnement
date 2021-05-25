@@ -13,7 +13,7 @@ sections:
         url: /pricing
         style: primary
       - type: action
-        label: Learn More
+        label: Mes articles
         url: /features
         style: secondary
     image: images/classic/hero.png
