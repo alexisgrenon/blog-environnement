@@ -78,10 +78,6 @@ params:
         label: Articles
         url: /blog/category/news
         style: link
-      - type: action
-        label: Tutorials
-        url: /blog/category/tutorials
-        style: link
     has_tertiary_nav: true
     tertiary_nav_title: Légal
     tertiary_nav_links:
