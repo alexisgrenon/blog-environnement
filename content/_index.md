@@ -135,10 +135,8 @@ sections:
       - type: grid_item
         title: Sensibilisation
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Des organismes, des entreprises et des projets innovants à suivre!
         content_align: left
         actions:
           - type: action
