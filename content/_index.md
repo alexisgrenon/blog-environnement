@@ -88,7 +88,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Mes intérêts
-    subtitle: Grid Section Example
+    subtitle: Environnement
     grid_items:
       - type: grid_item
         title: Économie circulaire
