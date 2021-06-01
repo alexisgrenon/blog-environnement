@@ -135,7 +135,7 @@ sections:
         image_align: left
         image_has_padding: true
       - type: grid_item
-        title: Section Item 3
+        title: Sensibilisation
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
