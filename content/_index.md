@@ -93,10 +93,9 @@ sections:
       - type: grid_item
         title: Économie circulaire
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Qu'est-ce qui peut être faire pour améliorer l'économie circulaire du
+          Québec?
         content_align: left
         actions:
           - type: action
