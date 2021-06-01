@@ -75,7 +75,7 @@ params:
     secondary_nav_title: Blogue
     secondary_nav_links:
       - type: action
-        label: News
+        label: Articles
         url: /blog/category/news
         style: link
       - type: action
