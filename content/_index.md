@@ -87,7 +87,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Cards Grid Section
+    title: Mes intérêts
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
