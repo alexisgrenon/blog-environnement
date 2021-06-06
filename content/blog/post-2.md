@@ -1,8 +1,6 @@
 ---
 title: L'économie circulaire
-subtitle: >-
-  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
-  vocas, eum.
+subtitle: C'est quoi l'économie circulaire?
 date: '2020-05-25'
 author: data/team/hilary-ouse.json
 categories:
