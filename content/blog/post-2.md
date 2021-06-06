@@ -46,7 +46,13 @@ seo:
       relativeUrl: true
 layout: post
 ---
-# Définition
+# Ma perception avant de faire mes recherches
+
+Donc avant de plonger plus loin dans mes recherches, qu'est-ce que ça me dit l'économie circulaire? Le mot économie, ça me fait penser rapidement à argent et production. Circulaire, qui tourne.  Donc de l'argent et une production qui tourne? 
+
+Ce que je sais principalement c'est que c'est supposé être bon pour l'environnement et une pièce importante de la réduction de l'empreinte écologique des humains. Mais concrètement, qu'est-ce que c'est l'économie circulaire pour madame et monsieur tout le monde? Et pour les entreprises? 
+
+# Définition des experts
 
 > L’économie circulaire est un nouveau modèle économique qui vise à découpler la croissance économique de l'épuisement des ressources naturelles et des impacts sur l'environnement par 2 principaux mécanismes :
 >
@@ -54,17 +60,10 @@ layout: post
 >
 > 2.  Optimiser l’utilisation des ressources qui circulent déjà dans nos sociétés.
 
-## Sed Nimis Multa
+Source : [Québec Circulaire](https://www.quebeccirculaire.org/static/concept-et-definition.html)
 
-An potest cupiditas finiri? Quamquam te quidem video minime esse deterritum. Sit, inquam, tam facilis, quam vultis, comparatio voluptatis, quid de dolore dicemus? Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.
+# Secteurs plus développés au Québec
 
-> Ita est quoddam commune officium sapientis et insipientis, ex quo efficitur versari in iis, quae media dicamus.
 
-Omnes enim iucundum motum, quo sensus hilaretur. Hoc est non dividere, sed frangere. Sed ne, dum huic obsequor, vobis molestus sim. Efficiens dici potest. Quia dolori non voluptas contraria est, sed doloris privatio. Quid dubitas igitur mutare principia naturae? Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me vocas, eum. Sed tu istuc dixti bene Latine, parum plane.
 
-Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. **Audeo dicere, inquit.** Perturbationes autem nulla naturae vi commoventur, omniaque ea sunt opiniones ac iudicia levitatis. Nunc haec primum fortasse audientis servire debemus. Nihil ad rem! Ne sit sane; Et certamen honestum et disputatio splendida! omnis est enim de virtutis dignitate contentio. Quonam, inquit, modo? Nullum inveniri verbum potest quod magis idem declaret Latine, quod Graece, quam declarat voluptas. Hoc ille tuus non vult omnibusque ex rebus voluptatem quasi mercedem exigit.
-
-*   Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari - virum vetant in dolore.
-*   Non igitur bene.
-
-Maximas vero virtutes iacere omnis necesse est voluptate dominante.
+# Exemples d'initiatives&#xA;
