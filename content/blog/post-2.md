@@ -49,12 +49,10 @@ layout: post
 # Définition
 
 > L’économie circulaire est un nouveau modèle économique qui vise à découpler la croissance économique de l'épuisement des ressources naturelles et des impacts sur l'environnement par 2 principaux mécanismes :
-
-> Repenser nos modes de production-consommation pour consommer moins de ressources et protéger les écosystèmes qui les génèrent.
-
-> Optimiser l’utilisation des ressources qui circulent déjà dans nos sociétés.
 >
+> 1.  Repenser nos modes de production-consommation pour consommer moins de ressources et protéger les écosystèmes qui les génèrent.
 >
+> 2.  Optimiser l’utilisation des ressources qui circulent déjà dans nos sociétés.
 
 ## Sed Nimis Multa
 
